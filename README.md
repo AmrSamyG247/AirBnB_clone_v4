@@ -1,5 +1,5 @@
-<center><h3>AirBnB clone -  updated README by Amr Samy & Meriem Marroun </h3></center>
-<center><h4>0x06. AirBnB clone - Web dynamic </h4></center>
+<center><h3>0x02. AirBnB clone - MySQL updated README by Amr Samy & Meriem Marroun </h3></center>
+<center><h4>0x05. AirBnB clone - RESTful API </h4></center>
 The Airbnb clone project for which we are creating a copy of the Airbnb. Only some features will be implemented and will be listed below once completed. At this stage, we are implementing an additional storage option. Based on which database is chosen (file storage or database storage), JSON is used or MySQL and SQLalchemy is used via Python. Fabric is used for application deployment.
 
 
